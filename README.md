@@ -1,2 +1,1 @@
-# -
-학술제
+# Journal Entries with Labelled Emotions
